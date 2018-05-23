@@ -1,0 +1,13 @@
+.flax {
+  display: flex;
+}
+
+.tabs {
+  min-width: 100px;
+  padding: 5px;
+}
+
+.is-active {
+  color: #00ee00;
+  font-weight: bold;
+}
